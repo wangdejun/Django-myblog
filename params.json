@@ -1,0 +1,6 @@
+{
+  "name": "django-myblog",
+  "tagline": "A private Blog using django",
+  "body": "### INTRO：a simple personal blog basedon django framwork and pyton2.7\r\n作为一个前端开发者，在项目中需要跟django框架和python2.7框架打交道，出于学习目的维护此项目\r\n\r\n### 能够快速启一个个人博客项目\r\n数据迁移自已有的WordPress博客项目www.dejunwang.com，使用django和python改造\r\n\r\n### 学习django框架 =>路由，视图，模型和其ORM模型\r\n登录，鉴权Login and SignUp\r\n统一的模板frame.html\r\n文章列表articleList\r\n文章详情articleDetail\r\n评论功能commentList\r\n\r\n### 基于mysql\r\n熟悉和学习操作数据库的基本技能，设计表和库的能力,如有可能，优化mysql性能的技巧\r\n\r\n### 进一步规划\r\n基于本项目搭建restful API,前端使用reactJS,改造博客，称为纯基于API的项目\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
